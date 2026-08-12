@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to SPACEXFY</h1>
+<h1 align="center">Welcome to SPACEXFY.ai</h1>
 
 <p align="center">
   <b>Modern Trading Technology for Global Financial Markets</b>
@@ -28,9 +28,9 @@
 
 ---
 
-# About SPACEXFY
+# About SPACEXFY.ai
 
-**Spacexfy** is a trading platform serving clients across the UK, Europe, and Australia.
+**SPACEXFY.ai** is a trading platform serving clients across the UK, Europe, and Australia.
 
 We prioritize our clients by providing a smooth trading experience supported by modern technology, comprehensive educational resources, market insights, and dedicated customer support.
 
@@ -40,7 +40,7 @@ Our core mission is to empower traders to make informed decisions by providing t
 
 # Our Commitment to Clients
 
-Trading requires skill, knowledge, discipline, and dedication. At SPACEXFY, we believe that modern technology, education, and insight into trading behavior can help traders develop their understanding of financial markets.
+Trading requires skill, knowledge, discipline, and dedication. At SPACEXFY.ai, we believe that modern technology, education, and insight into trading behavior can help traders develop their understanding of financial markets.
 
 ### 👥 Prioritizing Our Clients
 
@@ -62,7 +62,7 @@ Our global team combines decades of experience in trading technology and financi
 
 # Global Market Access
 
-SPACEXFY provides access to a range of financial markets through its trading platform.
+SPACEXFY.ai provides access to a range of financial markets through its trading platform.
 
 ### Available Markets
 
@@ -80,7 +80,7 @@ The official FAQ describes the platform as providing access to **750+ instrument
 
 # Trading Platform
 
-SPACEXFY is built around modern trading technology designed to provide traders with access to global financial markets.
+SPACEXFY.ai is built around modern trading technology designed to provide traders with access to global financial markets.
 
 ### Platform Highlights
 
@@ -95,7 +95,7 @@ SPACEXFY is built around modern trading technology designed to provide traders w
 
 ---
 
-# Why Choose SPACEXFY?
+# Why Choose SPACEXFY.ai?
 
 ### ⚡ Modern Technology
 
@@ -129,7 +129,7 @@ Online trading involves buying and selling financial assets through an online pl
 
 ### How can I start trading?
 
-To begin, complete the registration process on the SPACEXFY website and provide the required personal and financial information. :contentReference[oaicite:2]{index=2}
+To begin, complete the registration process on the SPACEXFY.ai website and provide the required personal and financial information. :contentReference[oaicite:2]{index=2}
 
 ### What are the risks of online trading?
 
@@ -197,7 +197,7 @@ Required documentation may include identity and address verification documents, 
 
 ### How do I close my account?
 
-Clients wishing to close an account should contact SPACEXFY support and follow the applicable account closure procedures.
+Clients wishing to close an account should contact SPACEXFY.ai support and follow the applicable account closure procedures.
 
 ---
 
@@ -231,9 +231,9 @@ Withdrawal processing times may vary depending on the payment method, account ve
 
 # 🔐 Security
 
-### How does SPACEXFY protect personal information?
+### How does SPACEXFY.ai protect personal information?
 
-SPACEXFY uses encryption and security protocols to protect personal information, with data stored on secure servers with restricted access. :contentReference[oaicite:8]{index=8}
+SPACEXFY.ai uses encryption and security protocols to protect personal information, with data stored on secure servers with restricted access. :contentReference[oaicite:8]{index=8}
 
 ### Security & Privacy Measures
 
@@ -250,7 +250,7 @@ The company's privacy policy states that TLS 1.2 is used to protect customer inf
 
 # 📚 Educational & Trading Information
 
-SPACEXFY provides informational resources designed to help clients understand financial markets and trading concepts.
+SPACEXFY.ai provides informational resources designed to help clients understand financial markets and trading concepts.
 
 Information may include:
 
@@ -264,7 +264,7 @@ Information may include:
 - Webinars
 - Market Insights
 
-All such information and recommendations are **informational in nature**. Clients make their own independent trading decisions, and SPACEXFY does not act as a financial advisor or fiduciary.
+All such information and recommendations are **informational in nature**. Clients make their own independent trading decisions, and SPACEXFY.ai does not act as a financial advisor or fiduciary.
 
 ---
 
@@ -272,7 +272,7 @@ All such information and recommendations are **informational in nature**. Client
 
 Please review all applicable documents and information before opening an account or placing an order.
 
-SPACEXFY states that it does not trade with clients, for clients, or instead of clients, does not manage client finances, and does not provide direct instructions about the market.
+SPACEXFY.ai states that it does not trade with clients, for clients, or instead of clients, does not manage client finances, and does not provide direct instructions about the market.
 
 Where appropriate, the company may provide explanations regarding exchange trading, technical indicators, financial-market factors, and general trading concepts.
 
@@ -280,7 +280,7 @@ Where appropriate, the company may provide explanations regarding exchange tradi
 
 # 🔐 Privacy Policy
 
-SPACEXFY places a high priority on the privacy and integrity of client information.
+SPACEXFY.ai places a high priority on the privacy and integrity of client information.
 
 Personal information may be collected for purposes including:
 
@@ -315,13 +315,13 @@ Depending on the account and applicable requirements, information may include:
 
 Cookies are small text files stored by a visitor's browser that can help websites remember certain information and preferences.
 
-SPACEXFY uses cookies as part of its website functionality and user experience.
+SPACEXFY.ai uses cookies as part of its website functionality and user experience.
 
 ---
 
 # 🛡️ Data Security
 
-SPACEXFY states that it takes security seriously and implements measures designed to protect confidential client information.
+SPACEXFY.ai states that it takes security seriously and implements measures designed to protect confidential client information.
 
 Security measures include:
 
@@ -335,7 +335,7 @@ Security measures include:
 
 # 🔄 Refund Policy
 
-SPACEXFY's Refund Policy forms part of its Client Agreements and outlines circumstances under which refunds may or may not be available.
+SPACEXFY.ai's Refund Policy forms part of its Client Agreements and outlines circumstances under which refunds may or may not be available.
 
 Key points include:
 
@@ -360,7 +360,7 @@ Trading financial instruments, including Forex and CFDs, involves a high level o
 
 Trading may not be suitable for every investor. Clients should only consider trading with funds they can afford to lose and should carefully evaluate their investment objectives, experience, and risk tolerance.
 
-SPACEXFY does not guarantee profits or protection from losses.
+SPACEXFY.ai does not guarantee profits or protection from losses.
 
 Past performance does not guarantee future results.
 
@@ -377,7 +377,7 @@ Before trading, clients should carefully review the applicable:
 
 # 🛡️ AML & KYC Policy
 
-SPACEXFY maintains AML and KYC procedures intended to help prevent money laundering, terrorist financing, fraud, and other unlawful financial activities.
+SPACEXFY.ai maintains AML and KYC procedures intended to help prevent money laundering, terrorist financing, fraud, and other unlawful financial activities.
 
 ### KYC Verification
 
@@ -398,7 +398,7 @@ Documents may need to be translated into English by an official translator where
 
 ### AML Controls
 
-SPACEXFY may:
+SPACEXFY.ai may:
 
 ✔ Verify Client Identity  
 ✔ Evaluate Client Risk  
@@ -415,7 +415,7 @@ Third-party deposits are prohibited under the stated AML/KYC procedures, and the
 
 # 🌍 Jurisdictional Restrictions
 
-SPACEXFY states that its services are not available to citizens or residents of certain jurisdictions.
+SPACEXFY.ai states that its services are not available to citizens or residents of certain jurisdictions.
 
 Restricted jurisdictions listed by the company include:
 
@@ -437,7 +437,7 @@ Clients are responsible for ensuring that their use of the platform complies wit
 
 # 🏢 Company Information
 
-**Spacexfy Ltd**
+**SPACEXFY.ai Ltd**
 
 📍 Schiffbaustrasse 2  
 8031 Zürich  
@@ -462,7 +462,7 @@ Switzerland
 **Monday – Friday**  
 **09:00 – 18:00 GMT+1**
 
-SPACEXFY states that it aims to reply within **4 hours on business days**.
+SPACEXFY.ai states that it aims to reply within **4 hours on business days**.
 
 ---
 
@@ -473,13 +473,13 @@ SPACEXFY states that it aims to reply within **4 hours on business days**.
 **Schiffbaustrasse 2**  
 **8031 Zürich, Switzerland**
 
-SPACEXFY combines global trading technology with a client-focused approach and international market access.
+SPACEXFY.ai combines global trading technology with a client-focused approach and international market access.
 
 ---
 
 # 📈 Trading Disclaimer
 
-SPACEXFY does not offer binary options.
+SPACEXFY.ai does not offer binary options.
 
 Trading Forex, CFDs, and other financial instruments involves substantial risk. Clients may experience partial or complete loss of invested capital.
 
@@ -499,7 +499,7 @@ are provided for informational purposes only.
 
 Every trading decision remains the client's independent decision.
 
-SPACEXFY does not act as a financial advisor, trustee, or fiduciary.
+SPACEXFY.ai does not act as a financial advisor, trustee, or fiduciary.
 
 ---
 
@@ -521,9 +521,9 @@ SPACEXFY does not act as a financial advisor, trustee, or fiduciary.
 ---
 
 <p align="center">
-  <b>SPACEXFY — Modern Technology. Global Markets. Informed Trading.</b>
+  <b>SPACEXFY.ai — Modern Technology. Global Markets. Informed Trading.</b>
 </p>
 
 <p align="center">
-  © 2026 Spacexfy Ltd. All rights reserved.
+  © 2026 SPACEXFY.ai Ltd. All rights reserved.
 </p>
