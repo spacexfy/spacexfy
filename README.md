@@ -23,7 +23,7 @@
 <br>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0B132B,100:3A86FF&text=SPACEXFY&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Forex%20%7C%20Stocks%20%7C%20Indices%20%7C%20Commodities%20%7C%20Crypto%20%7C%20ETFs&descAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0B132B,100:3A86FF&text=SPACEXFY.ai&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Forex%20%7C%20Stocks%20%7C%20Indices%20%7C%20Commodities%20%7C%20Crypto%20%7C%20ETFs&descAlignY=65"/>
 </p>
 
 ---
