@@ -14,7 +14,7 @@
   </a>
 
   <a href="https://github.com/spacexfy">
-    <img src="https://img.shields.io/badge/GitHub-SPACEXFY-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-SPACEXFY.ai-black?style=for-the-badge&logo=github">
   </a>
 
   <img src="https://img.shields.io/badge/Markets-Global-green?style=for-the-badge">
